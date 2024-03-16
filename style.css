@@ -30,7 +30,7 @@ body {
 header {
 	background-color: var(--purple-heart-400);
 	height: 10dvh;
-	width: 100dvw;
+	width: 100%;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
@@ -60,7 +60,7 @@ nav > a:hover {
 footer {
 	background-color: var(--purple-heart-400);
 	height: 5dvh;
-	width: 100dvw;
+	width: 100%;
 	text-align: center;
 	display: flex;
 	justify-content: center;
